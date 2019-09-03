@@ -1,15 +1,15 @@
 {
-  "main.js": "/fake-zhihu/static/js/main.a95039e4.chunk.js",
-  "main.js.map": "/fake-zhihu/static/js/main.a95039e4.chunk.js.map",
-  "runtime~main.js": "/fake-zhihu/static/js/runtime~main.01cd9dfe.js",
-  "runtime~main.js.map": "/fake-zhihu/static/js/runtime~main.01cd9dfe.js.map",
-  "static/js/2.073b261b.chunk.js": "/fake-zhihu/static/js/2.073b261b.chunk.js",
-  "static/js/2.073b261b.chunk.js.map": "/fake-zhihu/static/js/2.073b261b.chunk.js.map",
-  "index.html": "/fake-zhihu/index.html",
-  "precache-manifest.e33c52167929bc94b665ca01fb18abe2.js": "/fake-zhihu/precache-manifest.e33c52167929bc94b665ca01fb18abe2.js",
-  "service-worker.js": "/fake-zhihu/service-worker.js",
-  "static/media/UpDownArrow.svg": "/fake-zhihu/static/media/UpDownArrow.c7feca67.svg",
-  "static/media/eyeClose.svg": "/fake-zhihu/static/media/eyeClose.f12c73a1.svg",
-  "static/media/eyeOpen.svg": "/fake-zhihu/static/media/eyeOpen.e9f20a15.svg",
-  "static/media/logo.svg": "/fake-zhihu/static/media/logo.5d5d9eef.svg"
+  "main.js": "./static/js/main.87e7b158.chunk.js",
+  "main.js.map": "./static/js/main.87e7b158.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.9eb600ee.js",
+  "runtime~main.js.map": "./static/js/runtime~main.9eb600ee.js.map",
+  "static/js/2.43e97a33.chunk.js": "./static/js/2.43e97a33.chunk.js",
+  "static/js/2.43e97a33.chunk.js.map": "./static/js/2.43e97a33.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.8e34e6c82f9a4a2bfd82ac02e4933663.js": "./precache-manifest.8e34e6c82f9a4a2bfd82ac02e4933663.js",
+  "service-worker.js": "./service-worker.js",
+  "static/media/UpDownArrow.svg": "./static/media/UpDownArrow.c7feca67.svg",
+  "static/media/eyeClose.svg": "./static/media/eyeClose.f12c73a1.svg",
+  "static/media/eyeOpen.svg": "./static/media/eyeOpen.e9f20a15.svg",
+  "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg"
 }
